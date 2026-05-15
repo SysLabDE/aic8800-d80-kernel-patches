@@ -1,0 +1,31 @@
+# Linux/Kernel build artifacts
+*.o
+*.ko
+*.ko.*
+*.mod.c
+*.mod
+*.symtypes
+*.order
+*.symvers
+*.cmd
+*.dwo
+*.gcov
+*.gcda
+*.gcno
+__pycache__/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
